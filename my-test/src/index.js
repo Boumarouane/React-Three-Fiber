@@ -19,12 +19,10 @@ function Box() {
 }
 
 function App(){
-  return(
-    <>
+  return (
       <Canvas>
         <Box />
       </Canvas>
-    </>
   )
 }
 
